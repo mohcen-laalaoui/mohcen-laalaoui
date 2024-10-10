@@ -1,9 +1,9 @@
 ## Hi there 👋 I'm Mohcen Laalaoui
 
-A passionate Data Science and AI enthusiast with a strong foundation in technology. 
-Currently, I am very passionate about DataTech , where I have developed skills in Data Science & AI, focusing on Machine Learning and Deep Learning. 
+A passionate Data Science and AI enthusiast with a strong foundation in technology, specializing in Machine Learning and Deep Learning. 
 
 In addition to my academic journey, I enjoy Mobile App Development using Flutter, where I’ve created several projects that enhance user experiences. 
+
 I also have experience in Web Development with React, Angular, and Node.js, allowing me to build dynamic and responsive web applications.
 
 I am committed to continuous learning and love exploring new technologies to solve real-world problems. 
