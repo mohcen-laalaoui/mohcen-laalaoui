@@ -9,4 +9,3 @@ I enjoy mobile app development using Flutter as a hobby, creating projects that 
 Feel free to check out my repositories to see my work or connect with me for collaborations!
 
 ## Failure is fine, just try again.
-
