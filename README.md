@@ -1,13 +1,12 @@
 ## Hi there 👋 I'm Mohcen Laalaoui
 
-A passionate Data Science and AI enthusiast with a strong foundation in technology, specializing in Machine Learning and Deep Learning. 
+I just graduated with my bachelor's degree in computer science systems.
 
-In addition to my academic journey, I enjoy Mobile App Development using Flutter, where I’ve created several projects that enhance user experiences. 
+I am a passionate Data Science and AI enthusiast with a strong foundation in technology, specializing in Machine Learning and Deep Learning. 
 
-I also have experience in Web Development with React, Angular, and Node.js, allowing me to build dynamic and responsive web applications.
+I enjoy mobile app development using Flutter as a hobby, creating projects that enhance user experiences.
 
-I am committed to continuous learning and love exploring new technologies to solve real-world problems. 
 Feel free to check out my repositories to see my work or connect with me for collaborations!
 
-Failure is fine, just try again.
+## Failure is fine, just try again.
 
