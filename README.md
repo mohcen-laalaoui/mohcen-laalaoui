@@ -18,17 +18,14 @@ Feel free to check out my repositories to see my work or connect with me for col
 
 ## Skills and Tools
 
-### Programming Languages:
-- Python, Dart, C++, JavaScript.
+### Most Used:
+- **Python** and **Jupyter Notebook** are my primary tools for Data Science and AI.
+
+### Other Languages:
+- HTML, CSS, Dart, JavaScript.
 
 ### Frameworks and Libraries:
 - Angular, Node.js, React.js.
-
-### Tools:
-- Jupyter Notebook, TensorFlow, Keras, PyTorch.
-
-### Frontend:
-- HTML, CSS.
 
 ---
 
