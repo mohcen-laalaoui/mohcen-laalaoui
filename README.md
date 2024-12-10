@@ -17,7 +17,7 @@ Feel free to check out my repositories to see my work or connect with me for col
         <h3 style="text-align: center;">Mohcen Laalaoui's GitHub Stats</h3>
         <ul style="list-style-type: none; text-align: left; margin: 0; padding: 0;">
           <li>⭐ <strong>Total Stars Earned:</strong> 0</li>
-          <li>📋 <strong>Total Commits:</strong> 75</li>
+          <li>📋 <strong>Total Commits:</strong> 80</li>
           <li>🔗 <strong>Total PRs:</strong> 0</li>
           <li>❌ <strong>Total Issues:</strong> 0</li>
           <li>📅 <strong>Contributed to (last year):</strong> 22</li>
