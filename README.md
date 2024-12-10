@@ -8,24 +8,53 @@ Feel free to check out my repositories to see my work or connect with me for col
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohcen-laalaoui&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohcen-laalaoui&langs_count=8&layout=compact&theme=radical)
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <h3 style="text-align: center;">Mohcen Laalaoui's GitHub Stats</h3>
+        <ul style="list-style-type: none; text-align: left; margin: 0; padding: 0;">
+          <li>⭐ <strong>Total Stars Earned:</strong> 0</li>
+          <li>📋 <strong>Total Commits (2024):</strong> 53</li>
+          <li>🔗 <strong>Total PRs:</strong> 0</li>
+          <li>❌ <strong>Total Issues:</strong> 0</li>
+          <li>📅 <strong>Contributed to (last year):</strong> 53</li>
+        </ul>
+        <div style="text-align: center; font-size: 24px; font-weight: bold; color: #FF5733;">Python</div>
+      </td>
+      <td>
+        <h3 style="text-align: center;">Most Used Languages</h3>
+        <ul style="list-style-type: none; text-align: left; margin: 0; padding: 0;">
+          <li>📘 Jupyter Notebook: 74.84%</li>
+          <li>🐍 Python: 0.85%</li>
+          <li>🌐 HTML: 10.64%</li>
+          <li>🎨 CSS: 3.72%</li>
+          <li>🎯 Dart: 5.53%</li>
+          <li>🟦 TypeScript: 2.10%</li>
+          <li>📜 JavaScript: 1.23%</li>
+          <li>🧑‍💻 PHP: 1.09%</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## Skills and Tools
+## 💻 Skills and Tools
 
-### Most Used:
-- **Python** and **Jupyter Notebook** are my primary tools for Data Science and AI.
-
-### Other Languages:
-- HTML, CSS, Dart, JavaScript.
-
-### Frameworks and Libraries:
-- Angular, Node.js, React.js.
+<div align="center">
+  <img src="https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tool-Jupyter_Notebook-orange?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frontend-HTML5-red?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frontend-CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framework-Dart-blue?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framework-React-blue?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framework-Node.js-green?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framework-Angular-red?style=for-the-badge&logo=angular&logoColor=white" />
+</div>
 
 ---
 
