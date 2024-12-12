@@ -11,34 +11,13 @@ Feel free to check out my repositories to see my work or connect with me for col
 ## 📊 GitHub Stats
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <h3 style="text-align: center;">Mohcen Laalaoui's GitHub Stats</h3>
-        <ul style="list-style-type: none; text-align: left; margin: 0; padding: 0;">
-          <li>⭐ <strong>Total Stars Earned:</strong> 0</li>
-          <li>📋 <strong>Total Commits:</strong> 80</li>
-          <li>🔗 <strong>Total PRs:</strong> 0</li>
-          <li>❌ <strong>Total Issues:</strong> 0</li>
-          <li>📅 <strong>Contributed to (last year):</strong> 22</li>
-        </ul>
-        <div style="text-align: center; font-size: 24px; font-weight: bold; color: #FF5733;">Python</div>
-      </td>
-      <td>
-        <h3 style="text-align: center;">Most Used Languages</h3>
-        <ul style="list-style-type: none; text-align: left; margin: 0; padding: 0;">
-          <li>📘 Jupyter Notebook: 74.84%</li>
-          <li>🐍 Python: 0.85%</li>
-          <li>🌐 HTML: 10.64%</li>
-          <li>🎨 CSS: 3.72%</li>
-          <li>🎯 Dart: 5.53%</li>
-          <li>🟦 TypeScript: 2.10%</li>
-          <li>📜 JavaScript: 1.23%</li>
-          <li>🧑‍💻 PHP: 1.09%</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
+
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=mohcen-laalaoui&show_icons=true&theme=radical" alt="GitHub Stats" />
+
+  <!-- Most Used Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohcen-laalaoui&layout=compact&theme=radical" alt="Most Used Languages" />
+
 </div>
 
 ---
