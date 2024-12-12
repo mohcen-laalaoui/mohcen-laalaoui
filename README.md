@@ -11,8 +11,6 @@ Feel free to check out my repositories to see my work or connect with me for col
 ## 📊 GitHub Stats
 
 <div align="center">
-     <img src="https://github-readme-stats.vercel.app/api?username=mohcen-laalaoui&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical" 
-          alt="GitHub Stats" />
 
   <!-- GitHub Stats Card -->
   <img src="https://github-readme-stats.vercel.app/api?username=mohcen-laalaoui&show_icons=true&theme=light" alt="GitHub Stats" />
