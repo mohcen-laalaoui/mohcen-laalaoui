@@ -13,10 +13,10 @@ Feel free to check out my repositories to see my work or connect with me for col
 <div align="center">
 
   <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=mohcen-laalaoui&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohcen-laalaoui&show_icons=true&theme=light" alt="GitHub Stats" />
 
   <!-- Most Used Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohcen-laalaoui&layout=compact&theme=radical" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohcen-laalaoui&layout=compact&theme=light" alt="Most Used Languages" />
 
 </div>
 
