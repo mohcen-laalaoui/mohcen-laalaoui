@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Mohcen Laalaou
+## Hi there 👋 I'm Mohcen Laalaoui
 I recently graduated with a Bachelor’s degree in Computer Science Systems and have a deep passion for Data Science, Artificial Intelligence, and Software Engineering. I specialize in Machine Learning, Deep Learning, and MLOps, with a strong focus on building scalable AI solutions and optimizing model deployment workflows.
 
 My expertise spans across various areas, including:
