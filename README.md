@@ -1,17 +1,6 @@
 ## Hi there 👋 I'm Mohcen Laalaoui
 I recently graduated with a Bachelor’s degree in Computer Science Systems and have a deep passion for Data Science, Artificial Intelligence, and Software Engineering. I specialize in Machine Learning, Deep Learning, and MLOps, with a strong focus on building scalable AI solutions and optimizing model deployment workflows.
-
-My expertise spans across various areas, including:
-✅ Machine Learning & Deep Learning – Implementing and fine-tuning models for predictive analytics, image processing and AI-driven automation
-✅ MLOps & Model Optimization – Streamlining the deployment and monitoring of ML models using best practices in CI/CD, containerization and cloud-based solutions
-✅ Data Analysis & Feature Engineering – Extracting insights from complex datasets, preprocessing data and improving model performance
-✅ Flutter Mobile App Development – Designing and developing cross-platform applications with seamless user experiences as a hobby
-
-I enjoy solving complex problems and continuously expanding my knowledge in AI and software development
-
 Feel free to check out my repositories to see my work or reach out for collaborations on innovative projects !!
-
-
 
 ---
 
