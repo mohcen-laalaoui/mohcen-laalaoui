@@ -30,8 +30,4 @@ I'm a recent **Bachelor’s in Computer Science Systems** graduate with a passio
 
 ---
 
-## ✨ Failure is fine, just try again.
-
-<div align="center">
-  <img src="https://media.giphy.com/media/l0Iyl55kTeh71nTWw/giphy.gif" width="200" alt="Motivational GIF" />
-</div>
+## ✨ Failure is fine, just try again
