@@ -30,18 +30,8 @@ I'm a recent **Bachelor’s in Computer Science Systems** graduate with a passio
 
 ---
 
-## 📬 Get in Touch
-
-<div align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://your-portfolio-website.com"><img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-green?style=for-the-badge&logo=web&logoColor=white" /></a>
-</div>
-
----
-
 ## ✨ Failure is fine, just try again.
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7aD2xG5SP71QVVO8/giphy.gif" width="200" alt="Motivational GIF" />
+  <img src="https://media.giphy.com/media/l0Iyl55kTeh71nTWw/giphy.gif" width="200" alt="Motivational GIF" />
 </div>
