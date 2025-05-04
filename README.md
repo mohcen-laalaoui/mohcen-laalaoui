@@ -1,21 +1,16 @@
 ## Hi there 👋 I'm Mohcen Laalaoui
-I recently graduated with a Bachelor’s degree in Computer Science Systems and have a deep passion for Data Science, Artificial Intelligence, and Software Engineering. I specialize in Machine Learning, Deep Learning, and MLOps, with a strong focus on building scalable AI solutions and optimizing model deployment workflows.
-Feel free to check out my repositories to see my work or reach out for collaborations on innovative projects !!
+
+I'm a recent **Bachelor’s in Computer Science Systems** graduate with a passion for **Data Science**, **Artificial Intelligence**, and **Software Engineering**. I specialize in **Machine Learning**, **Deep Learning**, and **MLOps**, focusing on building scalable AI solutions and optimizing model deployment workflows.
+
+🌟 **Feel free to explore my repositories or reach out for collaborations on innovative projects!**
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 About Me
 
-<div align="center">
-
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=mohcen-laalaoui&show_icons=true&theme=light" alt="GitHub Stats" />
-
-  <!-- Most Used Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohcen-laalaoui&layout=compact&theme=light" alt="Most Used Languages" />
-
-</div>
-
+- 🎓 **Education**: B.Sc. in Computer Science Systems
+- 💡 **Interests**: Machine Learning, Deep Learning, MLOps, Scalable AI Solutions
+- 🌍 **Goal**: Building impactful AI-driven solutions for real-world problems
 ---
 
 ## 💻 Skills and Tools
@@ -29,8 +24,24 @@ Feel free to check out my repositories to see my work or reach out for collabora
   <img src="https://img.shields.io/badge/Framework-React-blue?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Framework-Node.js-green?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Framework-Angular-red?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tool-Docker-blue?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
 
 ---
 
-## Failure is fine, just try again.
+## 📬 Get in Touch
+
+<div align="center">
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://your-portfolio-website.com"><img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-green?style=for-the-badge&logo=web&logoColor=white" /></a>
+</div>
+
+---
+
+## ✨ Failure is fine, just try again.
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7aD2xG5SP71QVVO8/giphy.gif" width="200" alt="Motivational GIF" />
+</div>
