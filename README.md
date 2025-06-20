@@ -1,8 +1,8 @@
 ## Hi there 👋 I'm Mohcen Laalaoui
 
-I'm a recent **Bachelor’s in Computer Science Systems** graduate with a passion for **Data Science**, **Artificial Intelligence**, and **Software Engineering**.  
-I specialize in **Machine Learning**, **Deep Learning**, and **MLOps**, focusing on building scalable AI solutions and optimizing model deployment workflows.  
-I also enjoy **Flutter app development (Android & iOS)** and have strong experience in **Backend Engineering**, enabling me to build full-stack, end-to-end applications.
+I'm a recent **Bachelor’s in Computer Science Systems** graduate with a passion for **Data Science**, **Artificial Intelligence** and **Software Engineering**  
+I specialize in **Machine Learning** / **Deep Learning**, focusing on building scalable AI solutions and optimizing model deployment workflows  
+I also enjoy **Flutter app development (Android & iOS)** and have strong experience in **Backend Engineering**, enabling me to build full-stack, end-to-end applications
 
 🌟 **Feel free to explore my repositories or reach out for collaborations on innovative projects!**
 
@@ -11,7 +11,7 @@ I also enjoy **Flutter app development (Android & iOS)** and have strong experie
 ## 🚀 About Me
 
 - 🎓 **Education**: B.Sc. in Computer Science Systems  
-- 💡 **Interests**: Machine Learning, Deep Learning, MLOps, Flutter (Android & iOS), Backend Engineering  
+- 💡 **Interests**: Machine Learning, Deep Learning, Flutter (Android & iOS), Software Engineering  
 - 🌍 **Goal**: Building impactful, AI-driven and user-friendly solutions for real-world problems
 
 ## 💻 Skills and Tools
@@ -24,7 +24,7 @@ I also enjoy **Flutter app development (Android & iOS)** and have strong experie
   <img src="https://img.shields.io/badge/Framework-Dart-blue?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Framework-React-blue?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Framework-Node.js-green?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framework-Angular-red?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framework-Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Database-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Tool-Docker-blue?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
