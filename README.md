@@ -22,13 +22,16 @@ I also enjoy **Flutter app development (Android & iOS)** and have strong experie
   <img src="https://img.shields.io/badge/Frontend-HTML5-red?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/Frontend-CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Framework-Dart-blue?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framework-Flutter-blue?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Framework-React-blue?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Framework-Node.js-green?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Framework-Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Database-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Language-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Tool-Docker-blue?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
+
 
 ---
 
 ## ✨ Failure is fine, just try again
+
